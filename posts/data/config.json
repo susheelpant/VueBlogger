@@ -1,0 +1,17 @@
+{
+    "config": {
+        "username": "myXcents",
+        "avatarPath": "/images/hands-oldmother.jpg",
+        "description": "Life's worth is in living it to its full potential, and not killing yourself in doing so.",
+        "name": "dedicated to 'Myar Ija'",
+        "blogTitle": "Lifestyle advises from 'Myar Ija'!",
+        "blogStartYear": 2021
+    },
+    "contacts": [
+        {
+            "name": "Contact Me",
+            "value": "If you liked my post or want to leave a feedback, please email me on myxcents@egmail.com",
+            "link": "mailto:myxcents@egmail.com"
+        }
+    ]
+}
