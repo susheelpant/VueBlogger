@@ -57,7 +57,7 @@ export default {
 }
 
 .post-card .vs-card {
-  height: 380px !important;
+  height: 450px !important;
 }
 
 .post-card-tag {

@@ -5,7 +5,8 @@
       <p><i>{{ config.description }}</i></p>
       <br />
       <p v-if="curYear === config.blogStartYear">
-        &copy; {{ curYear }} {{ config.name }}
+        &copy; {{ curYear }} {{ config.name }}.&nbsp;
+        Powered by <a href="https://github.com/samzhangjy/VueBlogger" target="_blank">VueBlogger</a>.
       </p>
       <p v-else>
         &copy; {{ config.blogStartYear }} - {{ curYear }} {{ config.name }}.&nbsp;

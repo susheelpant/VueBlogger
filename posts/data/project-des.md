@@ -1,1 +1,1 @@
-Below are my personal projects made in my free time.
+<p><strong>All that I am, or ever hope to be, I owe to my angel mother!</strong> -  Abraham Lincoln</p><p><strong>God could not be everywhere, therefore he made mothers!</strong> - Rudyard Kipling</p><p><strong>Life does not come with a manual, It comes with a mother!</strong> - Unknown</p>

@@ -34,6 +34,21 @@ a {
   transition: 0.5s ease-in-out;
 }
 
+.main-head-user {
+  color: #a92e2e;
+  font-style: italic;
+}
+.main-header {
+  color: #3e568f;
+}
+.main-head-para {
+  color: #54308d;
+  text-decoration:overline;
+}
+.navbar-blog-title{
+  color: #3e568f;
+}
+
 hr {
   border-width: 1px;
   border-style: solid;
@@ -132,4 +147,11 @@ pre {
   .menu-btn {
     display: none !important;
   }
+}
+
+.posts-div {
+  padding:50px;
+}
+.posts-div .para{
+  padding-bottom:20px;
 }

@@ -1,6 +1,6 @@
 <template>
   <div class="container">
-    <h1 class="text-center">Projects</h1>
+    <h1 class="text-center">Myar Ija - Always Loving & Caring Mother</h1>
     <hr />
     <ProjectDes class="text-center" />
     <br />
@@ -31,7 +31,8 @@
                   <i class="bx bxl-github"></i>
                 </vs-button>
                 <template #tooltip>
-                  GitHub
+                  <!-- GitHub -->
+                  {{project.hovertext}}
                 </template>
               </vs-tooltip>
             </template>

@@ -1,9 +1,19 @@
 {
     "links": [
         {
-            "title": "Website title",
-            "desc": "Website description",
-            "link": "Website link"
+            "title": "From where did my blogging site template came from?",
+            "desc": "VueBlogger: A simple blogging site for Vue",
+            "link": "https://samzhangjy.github.io/#/posts/vue-blogger"
+        },
+        {
+            "title": "Where is this blogging site hosted?",
+            "desc": "FreeHosting is absolutely fantastic and free!",
+            "link": "https://www.freehosting.com/"
+        },
+        {
+            "title": "Some Free Images for blogging site came from?",
+            "desc": "PIXABAY",
+            "link": "https://pixabay.com/"
         }
     ]
 }

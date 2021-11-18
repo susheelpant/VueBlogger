@@ -1,6 +1,6 @@
 <template>
   <div>
-    <img :src="post.cover" class="cover" />
+    <!-- <img :src="post.cover" class="cover" /> -->
     <div class="container">
       <div class="text-center">
         <h1 class="headline">{{ post.title }}</h1>
@@ -100,7 +100,7 @@ export default {
 
 <style>
 .cover {
-  width: 100vw;
+  width: 98vw;
 }
 
 .margin {

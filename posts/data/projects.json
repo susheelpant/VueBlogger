@@ -1,11 +1,28 @@
 {
     "projects": [
         {
-            "name": "Project name",
-            "des": "Project description",
-            "img": "Project cover image url",
-            "link": "Project homepage url",
-            "github": "Project GitHub url"
+            "name": "Angel Mother",
+            "des": "All that I am, or ever hope to be, I owe to my angel mother! -  Abraham Lincoln",
+            "hovertext":"Angel Mother",
+            "img": "/images/hands-oldmother.jpg",
+            "link": "#projects",
+            "github": "#projects"
+        },
+        {
+            "name": "With Love - from God",
+            "des": "God could not be everywhere, therefore he made mothers! - Rudyard Kiplin",
+            "hovertext": "With Love - from God",
+            "img": "/images/mom-baby-feet.jpg",
+            "link": "#projects",
+            "github": "#projects"
+        },
+        {
+            "name": "Life's hacks & tricks",
+            "des": "Life does not come with a manual, It comes with a mother! -  Unknown",
+            "hovertext": "Life's hacks & tricks",
+            "img": "/images/hands-mother-baby.jpg",
+            "link": "#projects",
+            "github": "#projects"
         }
     ]
 }

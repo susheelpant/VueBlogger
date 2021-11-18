@@ -3,8 +3,8 @@
         {
             "title": "Reasons for Happiness",  
             "tags": ["reasons", "life", "health", "soul", "2021", "happiness", "unhappiness", "october"],
-            "cover": "/images/reasonsforhappiness01.jpg",
-            "des": "All of it was happening, and I was blaming ...",
+            "cover": "/images/happy-reason-mom-kid.jpg",
+            "des": "why in the world am I so worried and stressed? Are there any good reasons for that? Most of the reasons I was worried..",
             "date": [  
                 2021, 
                 10, 
@@ -15,62 +15,14 @@
         {
             "title": "Love yourself too",  
             "tags": ["love", "life", "health", "exercise", "2021", "family", "balanced diet", "sound sleep", "november"],
-            "cover": "/images/loveyourselftoo01.jpg",
-            "des": "Your organization is important, your family is quite important and your objectives are important as well. But all the goals achievements ...",
+            "cover": "/images/self-love-woman.jpg",
+            "des": "But all the goals achievements, accomplisments, accolades, and happy people around should not be there..",
             "date": [  
                 2021, 
                 11, 
                 11
             ],
             "id": "loveyourselftoo"
-        },
-        {
-            "title": "Reasons for Happiness",  
-            "tags": ["reasons", "life", "health", "soul", "2021", "happiness", "unhappiness", "october"],
-            "cover": "/images/reasonsforhappiness01.jpg",
-            "des": "All of it was happening, and I was blaming ...",
-            "date": [  
-                2021, 
-                10, 
-                10
-            ],
-            "id": "reasonsforhappiness"
-        },
-        {
-            "title": "Love yourself too",  
-            "tags": ["love", "life", "health", "exercise", "2021", "family", "balanced diet", "sound sleep", "november"],
-            "cover": "/images/loveyourselftoo01.jpg",
-            "des": "Your organization is important, your family is quite important and your objectives are important as well. But all the goals achievements ...",
-            "date": [  
-                2021, 
-                11, 
-                11
-            ],
-            "id": "loveyourselftoo"
-        },  
-        {
-            "title": "Reasons for Happiness",  
-            "tags": ["reasons", "life", "health", "soul", "2021", "happiness", "unhappiness", "october"],
-            "cover": "/images/reasonsforhappiness01.jpg",
-            "des": "All of it was happening, and I was blaming ...",
-            "date": [  
-                2021, 
-                10, 
-                10
-            ],
-            "id": "reasonsforhappiness"
-        },
-        {
-            "title": "Love yourself too",  
-            "tags": ["love", "life", "health", "exercise", "2021", "family", "balanced diet", "sound sleep", "november"],
-            "cover": "/images/loveyourselftoo01.jpg",
-            "des": "Your organization is important, your family is quite important and your objectives are important as well. But all the goals achievements ...",
-            "date": [  
-                2021, 
-                11, 
-                11
-            ],
-            "id": "loveyourselftoo"
-        }                        
+        }             
     ]
 }

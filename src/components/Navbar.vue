@@ -6,7 +6,7 @@
           <i class='bx bx-menu'></i>
         </vs-button>
         <router-link to="/" class="navbar-link">
-          <h3>{{ config.blogTitle }}</h3>
+          <h3 class="navbar-blog-title">{{ config.blogTitle }}</h3>
         </router-link>
       </template>
       <vs-navbar-item
@@ -78,7 +78,7 @@ export default {
           url: '/posts'
         },
         {
-          name: 'Projects',
+          name: 'Myar Ija',
           url: '/projects'
         },
         {

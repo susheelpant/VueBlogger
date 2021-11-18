@@ -5,9 +5,9 @@
         <div class="center">
           <Avatar size="300" home="true" />
         </div>
-        <h1>{{ config.name }}</h1>
-        <h4 style="color: #666666">{{ config.username }}</h4>
-        <p>{{ config.description }}</p>
+        <h1><a  class="main-header" href="#/projects">{{ config.name }}</a></h1>
+        <h4 style="color: #666666"><a class="main-head-user" href="#/about">{{ config.username }}</a></h4>
+        <p class="main-head-para">{{ config.description }}</p>
       </div>
       <h2>Latest Posts</h2>
       <hr/>

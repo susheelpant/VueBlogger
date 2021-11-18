@@ -1,6 +1,6 @@
 <template>
   <div class="container">
-    <h1 class="text-center">Links</h1>
+    <h1 class="text-center">Links & Credits</h1>
     <hr />
     <div class="grid-3_xs-1_sm-2_md-2">
       <div
